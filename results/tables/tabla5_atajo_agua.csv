@@ -1,0 +1,8 @@
+,ResNet-50,ViT (DeiT-S)
+Falsas alarmas (n),19.0,26.0
+% con agua en falsas alarmas,52.632,76.923
+% con agua en imágenes sin mina (referencia),17.721,17.721
+Prob. media de mina: sin mina y CON agua,0.021,0.02
+Prob. media de mina: sin mina y SIN agua,0.005,0.004
+Recall en minas con agua,0.915,1.0
+Recall en minas sin agua (n=4),1.0,1.0

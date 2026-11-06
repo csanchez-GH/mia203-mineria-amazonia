@@ -1,0 +1,20 @@
+{
+ "id": "vit_bce_pond_s1",
+ "arquitectura": "vit",
+ "perdida": "bce_pond",
+ "semilla": 1,
+ "epocas": 6,
+ "mejor_epoca": 4,
+ "map_val_raras": 0.46934311688873104,
+ "minutos_entrenamiento": 5.285894890626271,
+ "parametros_M": 21.635345,
+ "f2_muestras": 0.9266103733925501,
+ "f2_macro": 0.7190286975545458,
+ "f2_macro_raras": 0.5236175092914408,
+ "map_macro": 0.7236038550716251,
+ "map_raras": 0.5055076913909095,
+ "f2_mineria": 0.8865248226950354,
+ "recall_mineria": 0.9803921568627451,
+ "precision_mineria": 0.6410256410256411,
+ "ap_mineria": 0.9214351353112515
+}

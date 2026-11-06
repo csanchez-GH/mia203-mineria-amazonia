@@ -1,0 +1,7 @@
+image_name,tipo,agua,p_mina_vit
+train_19886,Acierto,False,0.994
+train_25328,Acierto,True,0.993
+train_997,Acierto,True,0.992
+train_30659,Falsa alarma,True,0.99
+train_2008,Falsa alarma,True,0.982
+train_34792,Falsa alarma,True,0.971

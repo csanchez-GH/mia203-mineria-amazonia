@@ -1,0 +1,20 @@
+{
+ "id": "resnet50_focal_s2",
+ "arquitectura": "resnet50",
+ "perdida": "focal",
+ "semilla": 2,
+ "epocas": 6,
+ "mejor_epoca": 6,
+ "map_val_raras": 0.33023159967569005,
+ "minutos_entrenamiento": 7.357403087615967,
+ "parametros_M": 23.542865,
+ "f2_muestras": 0.9176311298233413,
+ "f2_macro": 0.6551612612538695,
+ "f2_macro_raras": 0.3693242625880197,
+ "map_macro": 0.6397105080481645,
+ "map_raras": 0.3129771237476643,
+ "f2_mineria": 0.7904411764705882,
+ "recall_mineria": 0.8431372549019608,
+ "precision_mineria": 0.6323529411764706,
+ "ap_mineria": 0.8460496073002605
+}

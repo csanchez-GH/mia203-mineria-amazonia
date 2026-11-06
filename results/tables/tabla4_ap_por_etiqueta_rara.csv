@@ -1,0 +1,7 @@
+Etiqueta rara,Línea base,ResNet-50 + Focal,ResNet-50 + BCE,ResNet-50 + ASL,ResNet-50 + BCE ponderada,ViT (DeiT-S) + BCE ponderada
+selective_logging,0.266,0.373,0.447,0.367,0.418,0.451
+artisinal_mine,0.748,0.854,0.867,0.863,0.885,0.915
+blooming,0.257,0.16,0.195,0.19,0.227,0.296
+slash_burn,0.073,0.045,0.05,0.076,0.092,0.176
+conventional_mine,0.69,0.364,0.385,0.576,0.706,0.839
+blow_down,0.049,0.068,0.088,0.153,0.236,0.441

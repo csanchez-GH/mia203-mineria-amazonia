@@ -1,0 +1,20 @@
+{
+ "id": "resnet50_asl_s0",
+ "arquitectura": "resnet50",
+ "perdida": "asl",
+ "semilla": 0,
+ "epocas": 6,
+ "mejor_epoca": 6,
+ "map_val_raras": 0.3774049818173606,
+ "minutos_entrenamiento": 7.3847726583480835,
+ "parametros_M": 23.542865,
+ "f2_muestras": 0.9219528616676044,
+ "f2_macro": 0.6689328097622721,
+ "f2_macro_raras": 0.3962761445966178,
+ "map_macro": 0.6616104282383544,
+ "map_raras": 0.3584806643359794,
+ "f2_mineria": 0.8211678832116789,
+ "recall_mineria": 0.8823529411764706,
+ "precision_mineria": 0.6428571428571429,
+ "ap_mineria": 0.8634895044485205
+}

@@ -1,0 +1,10 @@
+{
+ "mejor_perdida": "bce_pond",
+ "criterio": "mAP raras en validaci\u00f3n (promedio de semillas)",
+ "promedios": {
+  "bce_pond": 0.4254,
+  "asl": 0.3694,
+  "bce": 0.35,
+  "focal": 0.3366
+ }
+}

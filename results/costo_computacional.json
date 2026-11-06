@@ -1,0 +1,10 @@
+{
+ "gpu": "Tesla T4",
+ "experimentos": 15,
+ "horas_gpu_entrenamiento": 1.74,
+ "minutos_por_experimento": {
+  "resnet50": 7.39,
+  "vit": 5.29
+ },
+ "nota": "Sin contar la caché de imágenes (~3-10 min), las características de la línea base (~1 min) ni las pruebas."
+}

@@ -1,0 +1,20 @@
+{
+ "id": "resnet50_bce_s1",
+ "arquitectura": "resnet50",
+ "perdida": "bce",
+ "semilla": 1,
+ "epocas": 6,
+ "mejor_epoca": 6,
+ "map_val_raras": 0.3611532964283904,
+ "minutos_entrenamiento": 7.3972165067990625,
+ "parametros_M": 23.542865,
+ "f2_muestras": 0.9221697233026332,
+ "f2_macro": 0.6716867136835935,
+ "f2_macro_raras": 0.40201570101450906,
+ "map_macro": 0.6575701499572351,
+ "map_raras": 0.3518720763550711,
+ "f2_mineria": 0.8424908424908425,
+ "recall_mineria": 0.9019607843137255,
+ "precision_mineria": 0.6666666666666666,
+ "ap_mineria": 0.8949070030835461
+}

@@ -1,0 +1,15 @@
+{
+ "modelo": "LogReg sobre ResNet-50 congelada",
+ "C": 0.001,
+ "map_val": 0.5953416649785191,
+ "tiempo_min": 4.1164360523223875,
+ "f2_muestras": 0.8952425889190074,
+ "f2_macro": 0.6476424280328229,
+ "f2_macro_raras": 0.4202296186589595,
+ "map_macro": 0.6154314396049696,
+ "map_raras": 0.3470823031493644,
+ "f2_mineria": 0.724907063197026,
+ "recall_mineria": 0.7647058823529411,
+ "precision_mineria": 0.6,
+ "ap_mineria": 0.7479878105721985
+}
