@@ -1,0 +1,11 @@
+# Pesos de los modelos: se publican en Google Drive (GitHub no acepta archivos de más de 100 MB)
+weights/
+*.pt
+# Características de la línea base (166 MB): se regeneran con el bloque 3 del notebook
+results/feats_*.npy
+# Datos: se descargan de Kaggle (ver data/README.md)
+data/raw/
+# Archivos temporales
+__pycache__/
+.ipynb_checkpoints/
+*.zip
