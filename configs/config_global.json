@@ -1,0 +1,33 @@
+{
+ "DIR_IMG": "/kaggle/input/datasets/nikitarom/planets-dataset/planet/planet/train-jpg",
+ "CSV_ETIQ": "/kaggle/input/competitions/planet-understanding-the-amazon-from-space/train_v2.csv/train_v2.csv",
+ "ETIQUETAS": [
+  "agriculture",
+  "artisinal_mine",
+  "bare_ground",
+  "blooming",
+  "blow_down",
+  "clear",
+  "cloudy",
+  "conventional_mine",
+  "cultivation",
+  "habitation",
+  "haze",
+  "partly_cloudy",
+  "primary",
+  "road",
+  "selective_logging",
+  "slash_burn",
+  "water"
+ ],
+ "RARAS": [
+  "selective_logging",
+  "artisinal_mine",
+  "blooming",
+  "slash_burn",
+  "conventional_mine",
+  "blow_down"
+ ],
+ "UMBRAL_RARA": 1.5,
+ "TAM": 160
+}
